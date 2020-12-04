@@ -1,4 +1,4 @@
-### Hi 👋 I'm Kamlesh Yadav 
+## Hi 👋 I'm Kamlesh Yadav 
 
 <p>
   <a href="https://www.linkedin.com/in/kamlesh-yadav-824512194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,9 +9,10 @@
 </p>
 
 
-Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <img src="https://www.flaticon.com/svg/vstatic/svg/3336/3336068.svg?token=exp=1607079358~hmac=a9919a7024dfe590e2608bad3d2823ad" width=30/> India. I love <img src="https://www.flaticon.com/svg/vstatic/svg/833/833472.svg?token=exp=1607080104~hmac=f0792351f9b9fc24edd9d2bcd7a6d5f0" width=20/> to code and always ready to learn new language which is not in my bucket. At precent I'm pursuing my Master of Computer Application from [Vellore Institute of Technology.](https://vit.ac.in/)
+Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <img src="https://www.flaticon.com/svg/vstatic/svg/3336/3336068.svg?token=exp=1607079358~hmac=a9919a7024dfe590e2608bad3d2823ad" width=30/> India. I love <img src="https://www.flaticon.com/svg/vstatic/svg/833/833472.svg?token=exp=1607080104~hmac=f0792351f9b9fc24edd9d2bcd7a6d5f0" width=20/> to code and always ready to learn new skills. At precent I'm pursuing my Master of Computer Application from [Vellore Institute of Technology.](https://vit.ac.in/)
 
-### Langugae and Tools
+
+## Langugae and Tools
 <table>
 <tbody >
  <tr>
