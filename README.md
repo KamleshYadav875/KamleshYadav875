@@ -87,10 +87,11 @@ Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <
 </tbody>
 </table>
 
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=KamleshYadav875&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=KamleshYadav875&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
+</div>
 <!--<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
 <!--
 **KamleshYadav875/KamleshYadav875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
