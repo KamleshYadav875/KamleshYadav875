@@ -2,11 +2,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/kamlesh-yadav-824512194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
 <a href="https://github.com/KamleshYadav875" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-
  <a href="mailto:kamleshyadav875@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/gmail-%2390100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a>
- 
 <a href="https://kamleshyadav875.github.io/Kamlesh-Yadav/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
 
 </p>
