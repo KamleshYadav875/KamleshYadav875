@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi 👋 I'm Kamlesh Yadav 
 
+<p><a href="https://www.linkedin.com/in/kamlesh-yadav-824512194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/KamleshYadav875" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=KamleshYadav875&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=KamleshYadav875&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
+<!--<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
 <!--
 **KamleshYadav875/KamleshYadav875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
