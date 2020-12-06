@@ -89,9 +89,20 @@ Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <
 </table>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=KamleshYadav875&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+
+## Github stats
+ <p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=KamleshYadav875&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</p>
+
+
+## Top Languages
+ <p align="center"> 
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=KamleshYadav875&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
+</p>
+
+
 </div>
 <!--<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
 <!--
