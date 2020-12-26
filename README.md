@@ -35,17 +35,17 @@ Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <
 <tr>
 <td align="center" width="30%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1607081422~hmac=6e8268e60ca43f34154c94bf16cd5e9a"> 
+<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/java.png"> 
 </td>
 
 <td align="center" width="30%">
 <span><b><center>Javascript</center></b></span> 
-<img height=65px src="https://www.flaticon.com/svg/vstatic/svg/1199/1199124.svg?token=exp=1607081586~hmac=6bf6b6289e326f33ae31a76be12b3d06"> 
+<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/java-script.png"> 
 </td>
 
 <td align="center" width="30%">
 <span><b><center>HTML</center></b></span> 
-<img height=65px src="https://www.flaticon.com/svg/vstatic/svg/732/732212.svg?token=exp=1607081680~hmac=0f17209d0b96ca725503b1b3f93ed291"> 
+<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/java-script.png"> 
 </td>
 </tr>
 
