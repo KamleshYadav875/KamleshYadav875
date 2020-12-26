@@ -45,7 +45,7 @@ Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <
 
 <td align="center" width="30%">
 <span><b><center>HTML</center></b></span> 
-<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/java-script.png"> 
+<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/html-5.png"> 
 </td>
 </tr>
 
