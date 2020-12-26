@@ -57,14 +57,14 @@ Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <
 
 <td align="center" width="30%">
 <span><b><center>MySQL</center></b></span> 
-<img height=65px src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1607081877~hmac=8427502d597fa946bfbdbbd8b61cfcc7"> 
+<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/mysql.svg"> 
 </td>
 
 
 
 <td align="center" width="30%">
 <span><b><center>Github</center></b></span> 
-<img height=65px src="https://www.flaticon.com/svg/vstatic/svg/1051/1051326.svg?token=exp=1607082184~hmac=2da9d9c1fd18147e7a850e672a6a15af"> 
+<img height=65px src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/GitHub-Mark.png"> 
 </td>
 </tr>
 <!--
