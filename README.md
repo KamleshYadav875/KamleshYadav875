@@ -9,7 +9,7 @@
 </p>
 
 
-Hi! I'm Kamlesh Yadav, a Full Stack Developer and Data Science Enthusiast from <img src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/india.jpg" width=35/> India. I love <img src="https://www.flaticon.com/svg/vstatic/svg/833/833472.svg?token=exp=1607080104~hmac=f0792351f9b9fc24edd9d2bcd7a6d5f0" width=20/> to code and always ready to learn new skills. At precent I'm pursuing my Master of Computer Application from [Vellore Institute of Technology.](https://vit.ac.in/)
+Hi! I'm Kamlesh Yadav, a Full Stack Developer from <img src="https://github.com/KamleshYadav875/KamleshYadav875/blob/main/images/india.jpg" width=35/> India. I love <img src="https://www.flaticon.com/svg/vstatic/svg/833/833472.svg?token=exp=1607080104~hmac=f0792351f9b9fc24edd9d2bcd7a6d5f0" width=20/> to code and always ready to learn new skills. At precent I'm a Solution Engineer @LabVantage Solution.
 
 
 ## Langugae and Tools
